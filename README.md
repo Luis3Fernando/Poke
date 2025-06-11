@@ -1,7 +1,7 @@
 # POKE
 <img src="src/assets/icon/icon.png" alt="zen" width="50"/>
 
-![Version](https://img.shields.io/badge/version-1.0.0-de0a26) ![Language](https://img.shields.io/badge/language-Typescript-de0a26) ![Status](https://img.shields.io/badge/status-Process-de0a26)
+![Version](https://img.shields.io/badge/version-1.0.0-ac3235) ![Language](https://img.shields.io/badge/language-Typescript-ac3235) ![Status](https://img.shields.io/badge/status-Process-ac3235)
 ![Stars](https://img.shields.io/github/stars/Luis3Fernando/Poke?style=social)
 
 
