@@ -7,10 +7,12 @@
 
 ## 📱 Screenshots
 
-<img src="src/assets/screenshots/home1.jpg" width="600"/>
-<img src="src/assets/screenshots/home2.jpg" width="600"/>
-<img src="src/assets/screenshots/list.jpg" width="600"/>
-<img src="src/assets/screenshots/pokemon_insecto.jpg" width="600"/>
-<img src="src/assets/screenshots/pokemon_normal.jpg" width="600"/>
-<img src="src/assets/screenshots/pokemon_pelea.jpg" width="600"/>
-<img src="src/assets/screenshots/pokemon_planta.jpg" width="600"/>
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="src/assets/screenshots/home1.jpg" width="400"/>
+  <img src="src/assets/screenshots/home2.jpg" width="400"/>
+  <img src="src/assets/screenshots/list.jpg" width="400"/>
+  <img src="src/assets/screenshots/pokemon_insecto.jpg" width="400"/>
+  <img src="src/assets/screenshots/pokemon_normal.jpg" width="400"/>
+  <img src="src/assets/screenshots/pokemon_pelea.jpg" width="400"/>
+  <img src="src/assets/screenshots/pokemon_planta.jpg" width="400"/>
+</div>
