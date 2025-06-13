@@ -8,11 +8,11 @@
 ## 📱 Screenshots
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="src/assets/screenshots/home1.jpg" width="300"/>
-  <img src="src/assets/screenshots/home2.jpg" width="300"/>
-  <img src="src/assets/screenshots/list.jpg" width="300"/>
-  <img src="src/assets/screenshots/pokemon_insecto.jpg" width="300"/>
-  <img src="src/assets/screenshots/pokemon_normal.jpg" width="300"/>
-  <img src="src/assets/screenshots/pokemon_pelea.jpg" width="300"/>
-  <img src="src/assets/screenshots/pokemon_planta.jpg" width="300"/>
+  <img src="src/assets/screenshots/home1.jpg" width="200"/>
+  <img src="src/assets/screenshots/home2.jpg" width="200"/>
+  <img src="src/assets/screenshots/list.jpg" width="200"/>
+  <img src="src/assets/screenshots/pokemon_insecto.jpg" width="200"/>
+  <img src="src/assets/screenshots/pokemon_normal.jpg" width="200"/>
+  <img src="src/assets/screenshots/pokemon_pelea.jpg" width="200"/>
+  <img src="src/assets/screenshots/pokemon_planta.jpg" width="200"/>
 </div>
