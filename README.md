@@ -6,7 +6,8 @@
 
 This is a mobile application, developed in react native, to practice and learn this framework, which was inspired by a Pokedex from the famous Pokemon anime, in which you can perform certain functions and meet different pokemon, using pokeApi.
 
-
+## ✨Features
+- See all pokemon
 
 ## 📱 Screenshots
 
